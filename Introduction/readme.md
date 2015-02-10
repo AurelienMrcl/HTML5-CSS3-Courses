@@ -36,11 +36,18 @@ Ouverture de la page depuis chrome
 Utilisation de l'outil d'inspection de google chrome à travers le site
 www.lemonde.fr
 
+Définition des balises et introduction au CSS. Modification d'une couleur.
+
+# En bref
+
+1. Une page web est un contenu
+2. Le langage HTML (Hypertext Markup Language) permet de structurer ce contenu. C'est le squelette de la page.
+3. Le langage CSS (Cascading Style Sheets) permet de designer la page. Il permet d'embellir la page.
+4. Le Langage JavaScript (souvent abrégé JS) permet de dynamiser la page
 
 # Ressources
 
-## Outils
 1. [Sublime Text](http://www.sublimetext.com/2)
 2. [Chrome](https://www.google.fr/chrome/browser/desktop/)
-
-## Sites à inspecter
+3. [W3Schools](http://www.w3schools.com/tags/default.asp)
+4. [Kennedy and Oswald - Animations réalisées en JS](http://kennedyandoswald.com/)
