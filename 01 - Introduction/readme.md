@@ -47,7 +47,7 @@ Définition des balises et introduction au CSS. Modification d'une couleur.
 
 # Ressources
 
-1. [Sublime Text](http://www.sublimetext.com/2)
-2. [Chrome](https://www.google.fr/chrome/browser/desktop/)
+1. [Chrome](https://www.google.fr/chrome/browser/desktop/)
+2. [Sublime Text](http://www.sublimetext.com/2)
 3. [W3Schools](http://www.w3schools.com/tags/default.asp)
 4. [Kennedy and Oswald - Animations réalisées en JS](http://kennedyandoswald.com/)
